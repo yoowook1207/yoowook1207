@@ -20,24 +20,18 @@
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-f89820.svg?style=flat&logo=java&logoColor=black"/>
 
-</br>
 
 #### 📌 <b>Front-end Tech</b>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C.svg?style=flat&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white"/>
 
-</br>
 
 #### 📌 <b>Back-end Tech</b>
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000.svg?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/typeORM-F7A600.svg?style=flat&logo=typeORM&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=Spring&logoColor=white"/>
 
-</br>
 
 #### 📌 <b>Databases</b>
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Postgre-4169E1.svg?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=graphql&logoColor=white"/>
 
-
-
-</br>
 
 #### 📌 <b>Tools</b>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white"/>
