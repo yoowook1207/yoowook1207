@@ -34,7 +34,12 @@
 
 #### 📌 <b>Tools</b>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Karma-Jasmine-8A4182.svg?style=flat&logo=jasmine&logoColor=white"/>
+  
+</br>
 
+## 🌱 I’m currently studying ...
+- Java Spring Boot
+- AWS
 
 <!--
 **yoowook1207/yoowook1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
