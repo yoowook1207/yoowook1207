@@ -3,7 +3,6 @@
 # <p style="text-align: center;">Hi, I'm <b> Sung Wook Yoo</b> 👋</p>
 <p style="text-align: center;"> <i>A full-stack developer who wants to develop the world better</i></p>
 </br>
-</br>
 
 ## 👦 About Me
 - George Mason University (Film and Video Studies)
