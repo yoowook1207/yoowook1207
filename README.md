@@ -17,7 +17,7 @@
 
 #### 📌 <b>Program Languages</b>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-f89820.svg?style=flat&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-f89820.svg?style=flat&logo=java&logoColor=black"/><img src="https://img.shields.io/badge/java-f89820.svg?style=flat&logo=python&logoColor=black"/>
 
 
 #### 📌 <b>Front-end Tech</b>
