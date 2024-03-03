@@ -38,7 +38,7 @@
 </br>
 
 ## 🌱 I’m currently studying ...
-- Java Spring Boot
+- Machine Learning / Generative AI
 - AWS
 
 <!--
